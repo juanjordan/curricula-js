@@ -259,7 +259,13 @@ con detenimiento y sigue sus consejos! :)
 
 [![tips credit card](https://img.youtube.com/vi/f0zL6Ot9y_w/0.jpg)](https://www.youtube.com/watch?v=f0zL6Ot9y_w)
 
-[https://www.youtube.com/watch?v=f0zL6Ot9y_w](https://www.youtube.com/watch?v=f0zL6Ot9y_w)
+Terminal y shell de UNIX:
+
+[![Playlist de Terminal y shell de UNIX](https://img.youtube.com/vi/GB35Eyb-J4c/0.jpg)](https://www.youtube.com/playlist?list=PLiAEe0-R7u8nGH5TEHfSTeDNIvjZFe_Yd)
+
+Control de versiones y trabajo colaborativo con Git y GitHub:
+
+[![Playlist de control de versiones y trabajo colaborativo](https://img.youtube.com/vi/F1EoBbvhaqU/0.jpg)](https://www.youtube.com/playlist?list=PLiAEe0-R7u8k9o3PbT3_QdyoBW_RX8rnV)
 
 Diseño de experiencia de usuario (User Experience Design):
 
@@ -275,10 +281,6 @@ Desarrollo Front-end:
 * Control de flujo
 * Tests unitarios
 * [Documentación de NPM](https://docs.npmjs.com/)
-
-Trabajo colaborativo con Git y GitHub:
-
-* [Playlist de trabajo colaborativo empezando por el uso del Terminal](https://www.youtube.com/playlist?list=PLiAEe0-R7u8k9o3PbT3_QdyoBW_RX8rnV)
 
 Organización del Trabajo:
 
