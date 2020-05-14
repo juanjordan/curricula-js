@@ -104,7 +104,7 @@ _chat_ o red social.
 
 - Para poder obtener los datos de un sitio _web_ vas a necesitar conocer sobre [_web
 scrapping_](https://es.wikipedia.org/wiki/Web_scraping). En Node.js esto se puede
-lograr usando en conjunto la _library_ llamada [axios](https://es.wikipedia.org/wiki/Web_scraping)
+lograr usando en conjunto la _library_ llamada [axios](https://www.npmjs.com/package/axios)
 para hacer el _request_ del HTML y otra llamada [cheerio](https://cheerio.js.org/)
 que te permitirá obtener sólo aquello en lo que estamos interesados de ese HTML.
 - Para poder correr tareas periódicamente en el servidor tendrás que conocer de
