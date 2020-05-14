@@ -84,7 +84,7 @@ de [_web scrapping_](https://es.wikipedia.org/wiki/Web_scraping).
 - Aprender a enviar notificaciones mediante algún servicio de _mailing_,
 _chat_ o redes sociales.
 - Aprender a programar tareas repetitivas en el tiempo usando alguna API nativa
-de Node.js o alguna _librery_.
+de Node.js o alguna _library_.
 
 ## 5. Criterios de aceptación mínimos del proyecto
 
