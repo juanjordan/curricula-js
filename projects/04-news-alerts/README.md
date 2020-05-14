@@ -32,7 +32,7 @@ Uno de los problemas que presentan estas plataformas es que si bien puedes enter
 de todas las noticias, no hay (que sepamos) una manera de enterarte sobre temas
 más específicos o "subtemas". Por ejemplo, dentro del universo de noticias sobre
 tecnología y programación, quiero enterarme solamente de aquellas relacionadas
-a _smartwatches_ ¿No sería genial enterarme de ese tema mediante una alerta?
+a _React_ ¿No sería genial enterarme de ese tema mediante una alerta?
 
 ## 2. Resumen del proyecto
 
