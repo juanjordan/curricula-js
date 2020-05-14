@@ -109,7 +109,7 @@ para hacer el _request_ del HTML y otra llamada [cheerio](https://cheerio.js.org
 que te permitirá obtener solo aquello en lo que estamos interesados de ese HTML.
 - Para poder correr tareas periódicamente en el servidor tendrás que conocer de
 los procesos del tipo [_daemon_](https://es.wikipedia.org/wiki/Daemon_(inform%C3%A1tica))
-y los [cron jobs](https://es.wikipedia.org/wiki/Cron_(Unix)) que te  permitirán
+y los [cron jobs](https://es.wikipedia.org/wiki/Cron_(Unix)) que te permitirán
 ejecutar constantemente una acción. En Node.js esto se puede lograr con la
 _library_ [node-cron](https://www.npmjs.com/package/node-cron).
 - Para poder enviar notificaciones tendrás que usar un servicio de terceros.
