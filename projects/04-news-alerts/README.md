@@ -106,7 +106,7 @@ _chat_ o red social.
 scrapping_](https://es.wikipedia.org/wiki/Web_scraping). En Node.js esto se puede
 lograr usando en conjunto la _library_ llamada [axios](https://www.npmjs.com/package/axios)
 para hacer el _request_ del HTML y otra llamada [cheerio](https://cheerio.js.org/)
-que te permitirá obtener sólo aquello en lo que estamos interesados de ese HTML.
+que te permitirá obtener solo aquello en lo que estamos interesados de ese HTML.
 - Para poder correr tareas periódicamente en el servidor tendrás que conocer de
 los procesos del tipo [_daemon_](https://es.wikipedia.org/wiki/Daemon_(inform%C3%A1tica))
 y los [cron jobs](https://es.wikipedia.org/wiki/Cron_(Unix)) que te  permitirán
