@@ -23,7 +23,7 @@ a la fuente original.
 ![Lobsters](lobsters.png)
 
 Estos "agregadores" suelen tener un sistema de popularidad en el que la primera
-noticia listada será la que tiene mayor cantidad de "votos" a favor (_upvotes_)
+noticia listada será la que tiene mayor cantidad de votos a favor (_upvotes_)
 y que, además, es aún relativamente nueva. Así, las noticias van posicionadas
 en un _ranking_ muy simple de entender. Cualquier persona registrada puede votar
 por cada noticia para favorecer su posición en este _ranking_.
